@@ -37,14 +37,25 @@ Steps taken in finishing the task:
 --------
 Screenshots of outputs of program execution
 1.Two Clients Connected
+ 
 ![Thise is an image](https://github.com/deepakachu5114/IterationX_emb_submission/blob/master/Output/WhatsApp%20Image%202023-02-01%20at%2023.25.56.jpg)
+
 2.If the server Shuts down Both Clients Re-establishes Connection after server is back up and runnning
+
 ![This is an image](https://github.com/deepakachu5114/IterationX_emb_submission/blob/master/Output/WhatsApp%20Image%202023-02-01%20at%2023.26.56.jpg)
+
 3.Client One runs even when Client Two Disconnects
+
 ![This is an image](https://github.com/deepakachu5114/IterationX_emb_submission/blob/master/Output/WhatsApp%20Image%202023-02-01%20at%2023.28.16.jpg)
+
 4.Server Runs even when both clients disconnect.
+
 ![This is an image](https://github.com/deepakachu5114/IterationX_emb_submission/blob/master/Output/WhatsApp%20Image%202023-02-01%20at%2023.29.55.jpg)
+
 5.Client1 logs the respones in a text file
+
 ![This is an image](https://github.com/deepakachu5114/IterationX_emb_submission/blob/master/Output/WhatsApp%20Image%202023-02-01%20at%2023.31.19.jpg)
+
 5.Client1 logs the respones in a text file
+
 ![This is an image](https://github.com/deepakachu5114/IterationX_emb_submission/blob/master/Output/WhatsApp%20Image%202023-02-01%20at%2023.31.59.jpg)
